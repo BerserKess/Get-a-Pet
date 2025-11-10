@@ -35,11 +35,11 @@ Siga os passos abaixo para configurar e rodar o projeto em seu ambiente local.
 git clone https://github.com/hebcodee/get-a-pet
 ```
 
-### 2. Instalação das Dependências
+## 2. Instalação das Dependências
 
 O projeto é dividido em duas pastas principais: backend e frontend. Você deve instalar as dependências em ambas as pastas.
 
-## Backend
+### Backend
 
 Execute este comando dentro da pasta backend:
 ```Bash
@@ -47,7 +47,7 @@ cd backend
 npm install
 ```
 
-## Frontend
+### Frontend
 
 Execute este comando dentro da pasta frontend:
 ```Bash
@@ -55,16 +55,16 @@ cd ../frontend
 npm install
 ```
 
-### 3. Execução das Aplicações
+## 3. Execução das Aplicações
 
-## Backend (Servidor API)
+### Backend (Servidor API)
 
 Execute este comando dentro da pasta backend:
 ```Bash
 npm run start
 ```
 
-## Frontend (Interface do Usuário)
+### Frontend (Interface do Usuário)
 
 Execute este comando dentro da pasta frontend:
 ```Bash
